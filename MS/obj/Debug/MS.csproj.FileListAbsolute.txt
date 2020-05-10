@@ -1,0 +1,18 @@
+c:\users\sps\documents\visual studio 2015\Projects\MS\MS\bin\Debug\MS.exe.config
+c:\users\sps\documents\visual studio 2015\Projects\MS\MS\bin\Debug\MS.exe
+c:\users\sps\documents\visual studio 2015\Projects\MS\MS\bin\Debug\MS.pdb
+c:\users\sps\documents\visual studio 2015\Projects\MS\MS\obj\Debug\MS.csprojResolveAssemblyReference.cache
+c:\users\sps\documents\visual studio 2015\Projects\MS\MS\obj\Debug\MS.Form1.resources
+c:\users\sps\documents\visual studio 2015\Projects\MS\MS\obj\Debug\MS.Properties.Resources.resources
+c:\users\sps\documents\visual studio 2015\Projects\MS\MS\obj\Debug\MS.csproj.GenerateResource.Cache
+c:\users\sps\documents\visual studio 2015\Projects\MS\MS\obj\Debug\MS.exe
+c:\users\sps\documents\visual studio 2015\Projects\MS\MS\obj\Debug\MS.pdb
+Z:\MS copy\MS\bin\Debug\MS.exe.config
+Z:\MS copy\MS\bin\Debug\MS.exe
+Z:\MS copy\MS\bin\Debug\MS.pdb
+Z:\MS copy\MS\obj\Debug\MS.csprojAssemblyReference.cache
+Z:\MS copy\MS\obj\Debug\MS.Form1.resources
+Z:\MS copy\MS\obj\Debug\MS.Properties.Resources.resources
+Z:\MS copy\MS\obj\Debug\MS.csproj.GenerateResource.cache
+Z:\MS copy\MS\obj\Debug\MS.exe
+Z:\MS copy\MS\obj\Debug\MS.pdb
